@@ -3,6 +3,8 @@
 
   Take `n` values from a generator
 
+  Deprecated. Use [take-iterator](https://github.com/jb55/take-iterator) instead.
+
   [Other useful functions](https://github.com/jb55/generators)
 
   [![Build Status](https://travis-ci.org/jb55/take-generator.svg)](https://travis-ci.org/jb55/take-generator)
